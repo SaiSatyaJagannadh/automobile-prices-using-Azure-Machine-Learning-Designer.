@@ -1,4 +1,17 @@
-# Azure Machine Learning: Automobile Price Prediction
+<div align="center">
+
+# 🚗 Automobile Price Prediction — Azure ML Designer
+
+### A no-code regression pipeline: train, evaluate and deploy a real-time price-prediction endpoint on Azure Container Instances.
+
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Designer](https://img.shields.io/badge/Designer-0078D4?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-2EA043?style=flat-square)
+![Container Instances](https://img.shields.io/badge/Container_Instances-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</div>
+
+---
 
 ## Overview
 I built a regression model to predict automobile prices using Azure Machine Learning Designer.
@@ -52,3 +65,10 @@ I built a regression model to predict automobile prices using Azure Machine Lear
 - [Azure Machine Learning Designer](https://ml.azure.com/)
 ```
 
+---
+
+<div align="center">
+
+**Built by [Sai Satya Jagannadh Doddipatla (DJ)](https://saisatyajagannadh.github.io/PersonalPortfolio/)** · ⭐ Star the repo if it helped
+
+</div>
